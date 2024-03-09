@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Container, Row, Col, Button } from "react-bootstrap";
+
+
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBars, faFire } from "@fortawesome/free-solid-svg-icons";
+import { SocialIcon } from "react-social-icons";
+import Challenge from "./component/Challenge";
+import ChallengeTwo from "./component/ChallengeTwo";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Challenge />
+
+      <p className="linebreak">To this </p>
+    
+
+      <ChallengeTwo />
     </div>
   );
 }

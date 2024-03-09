@@ -1,0 +1,188 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  padding-top: 10px;
+  border: 2px soild black;
+}
+
+.btn1 {
+  background-color: white;
+  border-radius: 50px;
+  padding: 3px 25px;
+  border: 2px soild black;
+}
+.bar{
+  border: 2px soild black;
+  border-radius: 50px;
+  padding: 2px;
+
+
+}
+.bar{
+  align-content: center;
+}
+.icon{
+  color: rgba(255, 255, 255, 0.692);
+  background-color: orangered;
+  border-radius: 50px;
+  border: none;
+  padding: 1px 5px;
+  margin-right: 8px;
+
+
+}
+
+
+.btn2 {
+  color: white;
+  background-color: orangered;
+  border-radius: 50px;
+  padding: 3px 25px;
+  border: none;
+}
+#first-text {
+  margin-top: 50px;
+}
+
+.text {
+  font-size: 84px;
+  letter-spacing: 2px;
+}
+.btn3 {
+  color: white;
+  background-color: orangered;
+  border-radius: 50%;
+  padding: 40px 40px;
+  border: none;
+  margin: 2px 45%;
+  font-size: 20px;
+}
+.icons {
+  color: orangered;
+  background-color: lightgrey;
+  border-radius: 50px;
+  padding: 7px 7px;
+  border: none;
+  margin-top: 82px;
+  font-size: 17px;
+  width: 40px;
+
+  margin-left: 7px;
+}
+.btn4 {
+  color: orangered;
+  background-color: lightgrey;
+  border-radius: 40%;
+  padding: 20px 20px;
+  border: none;
+  font-size: 20px;
+}
+.third-row {
+  margin: 10px 3px;
+}
+
+.icons1 {
+  color: lightgrey;
+  background-color: orangered;
+  border-radius: 50px;
+  padding: 8px 6px;
+  font-size: 15px;
+  align-items: center;
+
+}
+.icons1btn {
+  color: lightgrey;
+  background-color: orangered;
+  border-radius: 30px;
+  margin: 4px 1px;
+
+  border: none;
+
+}
+
+
+.btn4 {
+  color: orangered;
+  background-color: lightgrey;
+  border-radius: 40%;
+  padding: 15px 20px;
+  border: none;
+  font-size: 20px;
+  margin: 24px 0px;
+}
+
+.text2 {
+  font-size: 17px;
+}
+.icons2 {
+  color: black;
+  border-radius: 50px;
+  font-size: 15px;
+  align-items: center;
+  width: 40px;
+}
+.btn5 {
+  color: black;
+  border-radius: 40%;
+  padding: 1px 0.5px;
+  border: 2px solid rgb(28, 14, 14);
+  margin-left: 20px;
+  word-spacing: 4px;
+}
+
+.para2{
+  
+  margin: 10px 22px;
+  word-spacing: 3px;
+
+}
+
+.columns {
+  position: absolute;
+
+
+}
+
+.columns img{
+  border-radius: 50%;
+
+  margin: 0px 20px; 
+  position: relative;
+  left: 70px;
+ 
+ bottom: 10px;
+ right: 30px;
+
+}
+.icon3 {
+  color:orangered;
+  background-color: lightgrey;
+  border-radius: 50%;
+  padding: 26px 26px;
+  font-size: 30px;
+  position: relative;
+  top: 20px;
+ left: 40px;
+ margin-top: 1px ;
+
+
+
+}
+.logo {
+  position: absolute;
+
+}
+
+.logo1 img{
+  border-radius: 50%;
+  margin: 43px 0px;
+  position: relative;
+
+  /* pftadding: 15px 2px; */
+  right: 70px;
+
+}
