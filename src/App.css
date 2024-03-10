@@ -1,6 +1,7 @@
 .linebreak{
   padding: 50px;
   margin: 50px;
-  font-weight: 30px;
+  font-weight: 50px;
+  text-transform: capitalize;
 }
 

@@ -38,14 +38,12 @@ function Challenge() {
             </div>
           </Col>
         </Row>
-
         <Row>
           <Col lg={2}> </Col>
           <Col className="text" id="first-text">
             REVOLUTIONIZING
           </Col>
         </Row>
-
         <Row>
           <Col className="text"> DENTAL CARE</Col>
         </Row>
@@ -75,7 +73,6 @@ function Challenge() {
                 <FontAwesomeIcon icon={faCartShopping} className="icons2" />
               </button>
               <button className="btn5">
-                {" "}
                 <FontAwesomeIcon icon={faCertificate} className="icons2" />
               </button>
               <p className="para2"> Best Start up of 2023</p>
